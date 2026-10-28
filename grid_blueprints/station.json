@@ -1,0 +1,6 @@
+{
+  "transformers": [
+    {"id": "T1", "capacity": 50, "load": 60},
+    {"id": "T2", "capacity": 30, "load": 60}
+  ]
+}
